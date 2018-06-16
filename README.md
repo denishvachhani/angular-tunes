@@ -1,6 +1,9 @@
-# Kendo UI Tunes 🎧
+# Angular I-Tunes 🎧
+[Demo](https://angular-itues.netlify.com/)
 
-This is a demo project that shows how to use <a href="http://www.telerik.com/kendo-angular-ui/">Progress Kendo UI for Angular</a>. It also demonstrates how to use Grids and Detail Grids, along with some other Angular concpets such as shared services.
+This is angular 6 project to fetch songs from free iTuens api, you could also serch and play any song within browser.
+
+Search, Play, Listen and Enjoy!!
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
